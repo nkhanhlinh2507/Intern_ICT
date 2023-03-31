@@ -10,4 +10,5 @@
 ## 2. Các distro của Linux 
 - Ubuntu trở nên phổ biến là vì nó thân thiện với người dùng,tính bảo mật cao, có kho ứng dụng miễn phí khổng lồ, ít tốn tài nguyên phần cứng và đặc biệt hoàn toàn miễn phí
 - CentOS vì nó là phiên bản miễn phí của Red Hat Enterprise Linux
-- 
+- Fedora vì nó được dùng để kiểm tra các tính năng mới của Red Hat phát triển trước khi tính năng đó được thương mại hóa với RHEL.
+- Debian trở nên phổ biến vì nó là một phần mêm miễn phí, có tính ổn định và an toàn, hỗ trợ phần cứng rộng rãi, đưa ra một trình cài đặt uyển chuyển, cung cấp các cập nhật mượt mà và đây là cơ sở nền tảng cho nhiều bản phân phối khác
