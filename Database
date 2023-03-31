@@ -1,0 +1,6 @@
+My work
+- Bảo vệ cơ sở dữ liệu khỏi sự cố bất cứ lúc nào
+- Tăng thời gian trung bình giữa những lần hỏng hóc ( MTBF )
+- Bảo vệ những thành phần quan trọng bằng cách sao lưu
+- Giảm thời gian trung bình để khôi phục
+- Giảm thiểu sự mất mát dữ liệu
